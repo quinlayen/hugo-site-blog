@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Realty-Geek</title>
-    <link>/</link>
-    <description>Recent content on Realty-Geek</description>
+    <title>Rants on Realty-Geek</title>
+    <link>/posts/</link>
+    <description>Recent content in Rants on Realty-Geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Oct 2018 10:11:27 -1000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Oct 2018 10:27:58 -1000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Who Am I?</title>
-      <link>/about/</link>
-      <pubDate>Tue, 16 Oct 2018 10:11:27 -1000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>I am Peter Faso. I am a commercial realtor. I am a full-stack web developer. I am. I do. I write.</description>
-    </item>
-    
-    <item>
-      <title>FirstProject</title>
-      <link>/projects/firstproject/</link>
-      <pubDate>Mon, 15 Oct 2018 10:39:20 -1000</pubDate>
-      
-      <guid>/projects/firstproject/</guid>
-      <description>This is the first project file in the content/projects folder</description>
-    </item>
     
     <item>
       <title>5 Reasons to Invest in Tokyo Properties</title>
