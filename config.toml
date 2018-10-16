@@ -1,4 +1,4 @@
-baseurl                 = "www.realty-geek.com/"               # Your domain name. Must end with "/"
+baseurl                 = "/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 isMultilingual          = false
@@ -27,13 +27,13 @@ pygmentsCodefences      = true
     primaryImage        = "tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
-    link = "/posts"
+    link = "/posts/"
     text = "write"
 
 [[params.mainMenu]]
-    link = "/projects"
+    link = "/projects/"
     text = "do"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "/about/"
     text = "who?"
