@@ -2,7 +2,7 @@
 title: "5 Reasons to Invest in Tokyo Properties"
 date: 2018-10-15T10:28:27-10:00
 showDate: true
-draft: true
+draft: false
 tags: ["blog","story"]
 ---
 

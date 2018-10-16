@@ -1,8 +1,8 @@
 ---
 title: "Rants"
 date: 2018-10-15T10:27:58-10:00
-showDate: true
-draft: true
+showDate: false
+draft: false
 tags: ["blog","story"]
 ---
 
