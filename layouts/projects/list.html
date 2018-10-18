@@ -1,16 +1,13 @@
 
-<!DOCTYPE html>
 
-<head>
-    {{ partial "head.html" . }}
-    <title>{{ .Title }}</title>
-</head>
-<body>
+{{ define "section_content" }}
 
-</body>
-</html>
+  <div class="section" id="content">
+
+    {{ range .Site.Data.repos}}
+      {{ partial "repos.html" .}}
+    {{end}}
+  </div>
 
 
-{{ range .Site.Data.repos}}
-  {{.name}}
-{{end}}
+{{ end }}

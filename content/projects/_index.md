@@ -1,7 +1,6 @@
 ---
-title: "Projects to work on"
-date: 2018-10-17T12:30:48-10:00
+title: "Projects"
+date: 2018-10-17T20:41:57-10:00
 draft: true
 ---
-
-This is the projects main page
+This is the top of the projects page
