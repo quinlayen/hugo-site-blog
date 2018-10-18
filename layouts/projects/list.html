@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+
+<head>
+    {{ partial "head.html" . }}
+    <title>{{ .Title }}</title>
+</head>
+<body>
+
+</body>
+</html>
+
+
+{{ range .Site.Data.repos}}
+  {{.name}}
+{{end}}
